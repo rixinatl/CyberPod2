@@ -1,0 +1,7 @@
+    <add name="HcTrans.AG" connectionString="A32oDzFuz4J3AqhRW46pgY3QuXIei9IPm6FLQN/SNzmS8vZF3pudiG+OGlkeGEeh+7bXmKdgQZyJ/oo+wjvcnMB/EnkfSBohfRBe+7JStTdWhnP+KPL29lTnIrHBdqQ+" />
+    <add name="ArcDB.AG" connectionString="A32oDzFuz4J3AqhRW46pgd/Mu52CQsq7CHeNKPg4BQqmvSY+emqCtDbl2JxqCt5ZGGDZbJ9c7BFQtf6nI2vpOJLkIF0YOPJHsgQBvq8Ag6o=" />
+    <add name="HcStatistic.AG" connectionString="A32oDzFuz4J3AqhRW46pgad5iFCP5riwFE79Uj7rW4AQzQklfe/j+YRQuxtE+FI5wkMnF2RldkAaCVcZpdKHqteMoBezcKzvyTADBQYvAeYX8QUO4Wr4S5ejgGuTKsOG" />
+    <add name="CPS.AG" connectionString="A32oDzFuz4J3AqhRW46pgXrDFTYTd0nCyHtYry6b18z4qGjlVcj5V3siUA1HW1l8FNjHNhiaGsE2XTgzPVziFkUuH7NxmIETPb+SynNR3oo=" />
+    <add name="VANInfo.AG" connectionString="A32oDzFuz4J3AqhRW46pgSvXBMOHzAgRdPki4+WDdXMv6Y9UHTfi8kXkcXWR1gPsz/qRRlhLShbWQ+kIGOKXCUJ7008UMW/UOxqkqO14b3KuuUZucYLKyr+zVQMmJS25" />
+
+
